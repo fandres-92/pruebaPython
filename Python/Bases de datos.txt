@@ -1,0 +1,6 @@
+Bases de datos relacionales: Se basa en la organizacion de la informacion en trozos pequeños, que se relacionan entre ellos mediante la relacion de identificadores
+Propiedades: Bases de datos mas robustos y menos vulnerables ante fallos
+SQL, Oracle, 
+
+Bases de datos no relacionados: no tienen un identificador que sirva de relación entre un conjunto de datos y otros. Como veremos, la información se organiza normalmente
+mediante documentos y es muy útil cuando no tenemos un esquema exacto de lo que se va a almacenar.
